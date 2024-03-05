@@ -16,8 +16,8 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url('images/anoop1.jpg');
-    background-position:35px;
+    background-image: url('images/landscape.jpg');
+    background-position:3px;
     background-size: cover;
     background-attachment: fixed;
 
@@ -397,8 +397,8 @@ nav .fa-solid{
 @media only screen and (max-width: 600px){
 
     #header{
-        background-image: url(images/anoop1.jpg);
-        background-position:11100px;
+        background-image: url(images/mobileview.jpg);
+        background-position:0px;
         background-attachment: fixed;
     }
 
